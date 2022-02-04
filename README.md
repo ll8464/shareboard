@@ -30,7 +30,7 @@ As previously stated, this project is based on the Model View Controller framewo
 
 - The model then updates the view with changes.
 
-- This is the front-end that the user sees.
+- The view contains the front-end that the user sees.
 
 ---
 
@@ -52,7 +52,7 @@ The major 5 folders are:
 - **_.htaccess_**: a config file used in Apache databases. In this case, it is for getting \_GET requests from the URL.
 
 * **_config.php_**: contains constants such as Database name, password, etc as well as ROOT_URL definitions
-* **_index.php_**: This file ensures all of the controllers, config, models, and classes are instantiated. Also ensures all the pages are in session which is need to for login.
+* **_index.php_**: This file ensures all of the controllers, config, models, and classes are instantiated. Also ensures all the pages are in session which is needed to for login.
 
 # Classes Folder
 
