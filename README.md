@@ -3,7 +3,7 @@
 Hello!
 This project is a message board system termed 'shareboard' complete with login. The posts are called "shares".
 
-Shareboard was made with the intention of practicing php and MVC frameworks.
+Shareboard was made with the intention of practicing php and MVC frameworks. It uses a custom MVC framework a Eduonix course called Learn Object PHP By Building a Complete Website. This is the core project made from that course. The extensive documentation I made is to help improve my learning of course and help others taking learning as well. 
 
 To that end, this is a MVC framework that I made for this project.
 
